@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     text-align: left;
+=======
+    text-align: justify;
+>>>>>>> cabecera
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
